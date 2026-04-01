@@ -1,4 +1,4 @@
-# Ex.No:3(F) WRAPPER CLASS
+﻿# Ex.No:3(F) WRAPPER CLASS
 
 ## QUESTION:
 Write a Java program to check if a number is prime using wrapper classes. 
@@ -28,8 +28,8 @@ To write a Java program that checks whether a given number is prime by using the
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -86,6 +86,7 @@ public class PrimeChecker {
 
 ## RESULT:
 Therefore the program successfully checks if the input number is a prime using the Integer wrapper class.
+
 
 
 

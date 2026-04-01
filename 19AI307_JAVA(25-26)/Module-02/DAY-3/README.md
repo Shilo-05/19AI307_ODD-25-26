@@ -1,4 +1,4 @@
-# Ex.No:2(C) ACCESS SPECIFIERS
+﻿# Ex.No:2(C) ACCESS SPECIFIERS
 
 ## QUESTION:
 Write a Java program to create a class called BankAccount with private instance variables accountNumber and balance. Provide public getter and setter methods to access and modify these variables.
@@ -38,8 +38,8 @@ To write a Java program that defines a class BankAccount with private attributes
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -96,6 +96,7 @@ public class prog {
 
 ## RESULT:
 Therfore the program successfully stores account details using setter methods and retrieves them using getter methods.
+
 
 
 

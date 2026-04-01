@@ -1,4 +1,4 @@
-# Ex.No:1(B) CONDITIONAL STATEMENT
+﻿# Ex.No:1(B) CONDITIONAL STATEMENT
 
 ## QUESTION:
 A pirate ship has a code lock that only opens if:
@@ -42,8 +42,8 @@ To write a Java program that accepts a code number and determines the security l
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -81,6 +81,7 @@ public class PirateCodeLock {
 
 ## RESULT:
 Therefore,the program has been executed successfully.
+
 
 
 

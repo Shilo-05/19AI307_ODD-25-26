@@ -1,4 +1,4 @@
-# Ex.No:4(C)  COMPOSITION IN JAVA
+﻿# Ex.No:4(C)  COMPOSITION IN JAVA
 
 ## QUESTION:
 A Department contains Professor objects, but professors can exist independently.
@@ -34,8 +34,8 @@ To write a Java program demonstrating aggregation, where a Department contains m
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -113,6 +113,7 @@ public class Main {
 
 ## RESULT:
 Therefore the program successfully demonstrates aggregation by associating independent Professor objects with a Department.
+
 
 
 

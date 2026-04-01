@@ -1,4 +1,4 @@
-# Ex.No:3(D)    INTERFACE 
+﻿# Ex.No:3(D)    INTERFACE 
 
 ## QUESTION:
 You’re developing a multi-console gaming platform that supports different controllers. Each controller has its own way of mapping buttons for actions like Jump, Shoot, and Pause.
@@ -40,8 +40,8 @@ To design a unified controller system using Java Interfaces where different gami
  ```
 /*
 Program to implement a Interface using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -141,6 +141,7 @@ public class GameInputSimulator {
 
 ## RESULT:
 Therefore the program successfully unifies different gaming controllers using a common interface.
+
 
 
 

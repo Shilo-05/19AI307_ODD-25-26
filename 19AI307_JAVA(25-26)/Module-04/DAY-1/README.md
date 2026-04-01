@@ -1,4 +1,4 @@
-# Ex.No:4(A) EXCEPTION HANDLING
+﻿# Ex.No:4(A) EXCEPTION HANDLING
 
 ## QUESTION:
 You wrote a program that stores some input strings into a String array and prints each string in uppercase.
@@ -29,8 +29,8 @@ To write a Java program that demonstrates a NullPointerException when calling .t
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -63,6 +63,7 @@ public class NullPointerArrayExample {
 
 ## RESULT:
 Therefore the program successfully demonstrates how a NullPointerException occurs when calling .toUpperCase() on a null value.
+
 
 
 

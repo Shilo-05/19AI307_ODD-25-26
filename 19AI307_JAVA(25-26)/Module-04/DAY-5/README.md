@@ -1,4 +1,4 @@
-# Ex.No:4(E) DESIGN PATTERN  ---- MEDIATOR PATTERN
+﻿# Ex.No:4(E) DESIGN PATTERN  ---- MEDIATOR PATTERN
 
 ## QUESTION:
 Create a ChatRoom class (mediator) and two users (colleagues) who send and receive messages through it. No direct communication allowed.
@@ -26,8 +26,8 @@ Implement the Mediator pattern using a ChatRoom class to manage communication be
  ```
 /*
 Program to implement a  Pattern using Java
-Developed by: vutukuri sai kumar reddy
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -111,6 +111,7 @@ public class ChatApp {
 
 ## RESULT:
 Therefore the program successfully demonstrates message exchange using the Mediator Pattern, with all user communication routed through the ChatRoom.
+
 
 
 

@@ -1,4 +1,4 @@
-# Ex.No:5(B) SERIALIZATION AND DESERIALIZATION 
+﻿# Ex.No:5(B) SERIALIZATION AND DESERIALIZATION 
 
 ## QUESTION:
 
@@ -21,8 +21,8 @@ To Write a Java program to serialize a collection of objects (like ArrayList<Stu
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -110,3 +110,4 @@ public class StudentSerializationUserInput {
 
 ## RESULT:
 Thus, the program to serialize a collection of objects (like ArrayList<Student>) into a file executed successfully.
+

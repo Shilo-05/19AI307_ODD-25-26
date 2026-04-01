@@ -1,4 +1,4 @@
-# Ex.No:2(E) ACCESS MODIFIERS
+﻿# Ex.No:2(E) ACCESS MODIFIERS
 
 ## QUESTION:
 Create a class Employee with method display(). Inside display(), return the current object using this. Create another method that calls display().printName()
@@ -32,8 +32,8 @@ To create an Employee class where the display() method returns the current objec
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by:VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -77,6 +77,7 @@ class prog {
 
 ## RESULT:
 Therefore the program successfully returns the current object using this inside the display() method.
+
 
 
 

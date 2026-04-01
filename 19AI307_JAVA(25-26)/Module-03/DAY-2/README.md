@@ -1,4 +1,4 @@
-# Ex.No:3(b) POLYMORPHISM
+﻿# Ex.No:3(b) POLYMORPHISM
 
 ## QUESTION:
 Write a Java program to create a class Vehicle with a method called speedUp(). Create two subclasses Car and Bicycle. Override the speedUp() method in each subclass to increase the vehicle's speed differently.
@@ -26,8 +26,8 @@ To create a Java program demonstrating method overriding by defining a base clas
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -96,6 +96,7 @@ public class TestVehicles {
 
 ## RESULT:
 Therefore the  program successfully demonstrates method overriding by applying different speed increase behaviors for car and bicycle.
+
 
 
 

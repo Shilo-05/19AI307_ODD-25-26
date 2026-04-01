@@ -1,4 +1,4 @@
-# Ex.No:5(E) MULTITHREADING -SYNCHRONIZATION
+﻿# Ex.No:5(E) MULTITHREADING -SYNCHRONIZATION
 
 ## QUESTION:
 Maintain two int variables a and b, read their initial values from user. Use synchronized block to swap them and print swapped values.
@@ -29,7 +29,7 @@ To write a Java program that reads two integers from the user and swaps their va
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
+Developed By: Oswald Shilo
 RegisterNumber: 2122230307
 */
 ```
@@ -66,6 +66,7 @@ public class SwapUsingSynchronized {
 
 ## RESULT:
 Therefore the program successfully swaps two integers within a synchronized block, ensuring safe and controlled access.
+
 
 
 

@@ -1,4 +1,4 @@
-# Ex.No:5(C)  FILE HANDLING USING JAVA
+﻿# Ex.No:5(C)  FILE HANDLING USING JAVA
 ## QUESTION:
 Write a Java program to create a new file named example.txt.
 
@@ -24,8 +24,8 @@ To write a Java program that creates a new file named example.txt using the File
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -56,6 +56,7 @@ public class CreateNewFileExample {
 
 ## RESULT:
 Therefore the program successfully creates a new file named example.txt if it does not already exist.
+
 
 
 

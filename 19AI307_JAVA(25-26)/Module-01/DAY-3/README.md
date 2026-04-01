@@ -1,4 +1,4 @@
-# Ex.No:1(C) LOOPING STATEMENT
+﻿# Ex.No:1(C) LOOPING STATEMENT
 
 ## QUESTION:
 Display Factors of a Number
@@ -24,8 +24,8 @@ To write a Java program that reads an integer from the user and displays all the
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -56,6 +56,7 @@ public class Factors {
 
 ## RESULT:
 Therefore, the program successfully reads a number from the user and computes its factors.
+
 
 
 

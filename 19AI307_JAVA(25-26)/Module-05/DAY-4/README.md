@@ -1,4 +1,4 @@
-# Ex.No:5(D) THREAD PRIORITY
+﻿# Ex.No:5(D) THREAD PRIORITY
 
 ## QUESTION:
 Write a Java program to implement a extending thread class
@@ -27,8 +27,8 @@ To write a Java program that demonstrates multithreading by creating a user-defi
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -58,6 +58,7 @@ public class MyThread extends Thread {
 
 ## RESULT:
 Therefore the program successfully creates a separate thread by extending Thread and executes the overridden run() method.
+
 
 
 

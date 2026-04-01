@@ -1,4 +1,4 @@
-# Ex.No:5(A) INPUTSTREAMREADER 
+﻿# Ex.No:5(A) INPUTSTREAMREADER 
 
 ## QUESTION:
 Write a program to demonstrate chaining of streams (BufferedReader on top of InputStreamReader on top of System.in)
@@ -25,8 +25,8 @@ To write a Java program that demonstrates stream chaining by placing a BufferedR
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -60,6 +60,7 @@ public class ChainingStreamsExample {
 
 ## RESULT:
 Therefore the program successfully demonstrates chaining of input streams by reading user data through a BufferedReader wrapped over an InputStreamReader.
+
 
 
 

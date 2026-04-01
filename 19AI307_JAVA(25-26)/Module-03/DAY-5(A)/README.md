@@ -1,4 +1,4 @@
-# Ex.No:3(E) ENUM
+﻿# Ex.No:3(E) ENUM
 ## QUESTION:
 Write a Java program to define an enum named GameLevel with three constants: EASY, MEDIUM, and HARD.
 
@@ -25,8 +25,8 @@ To write a Java program that defines an enum named GameLevel with constants EASY
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -66,6 +66,7 @@ public class Game {
 
 ## RESULT:
 Therefore the program successfully reads a game level from the user and maps it to the corresponding enum constant.
+
 
 
 

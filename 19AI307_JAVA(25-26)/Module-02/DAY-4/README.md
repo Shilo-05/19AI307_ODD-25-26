@@ -1,4 +1,4 @@
-# Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
+﻿# Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
 
 ## QUESTION:
 Write a class that uses a constructor to initialize variables and overrides toString() method.
@@ -34,8 +34,8 @@ To write a Java program that initializes object variables using a constructor an
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -82,6 +82,7 @@ public class StudentDemo {
 
 ## RESULT:
 Therefore the program successfully creates a student object using the constructor.
+
 
 
 

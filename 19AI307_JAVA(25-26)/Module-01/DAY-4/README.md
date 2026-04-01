@@ -1,4 +1,4 @@
-# Ex.No:1(D) ARRAYS
+﻿# Ex.No:1(D) ARRAYS
 
 ## QUESTION:
 Write a Java program to find the index of a given element in an array
@@ -29,8 +29,8 @@ To write a Java program that reads an array of integers and finds the index of a
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -72,6 +72,7 @@ public class Main {
 
 ## RESULT:
 Therefore the program successfully searches the array for the given element.
+
 
 
 

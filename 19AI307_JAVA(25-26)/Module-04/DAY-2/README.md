@@ -1,4 +1,4 @@
-# Ex.No:4(B)  IMPLEMENT SOLID PRINCIPLES IN JAVA PROGRAM 
+﻿# Ex.No:4(B)  IMPLEMENT SOLID PRINCIPLES IN JAVA PROGRAM 
 
 ## QUESTION:
 At an international airport, only one Radar Control Tower exists. This tower is responsible for handling all flight communications regardless of how many flights are coming in. Each incoming flight must contact this tower to register its approach.
@@ -35,8 +35,8 @@ To simulate an airport radar communication system using the Singleton pattern, e
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: VUTUKURI SAI KUMAR REDDY
-RegisterNumber: 212224230307
+Developed By: Oswald Shilo
+Register No: 212223040139
 */
 ```
 
@@ -85,6 +85,7 @@ public class prog {
 
 ## RESULT:
 Therefore the program successfully ensures that all flights communicate with a single RadarControlTower instance using the Singleton pattern.
+
 
 
 
